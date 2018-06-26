@@ -1,6 +1,5 @@
-application:
-  info:
-    profile: default
-    from: git_default
+info:
+  profile: default
+  from: git_default
 
-  test: bbb
+test: bbb

@@ -1,6 +1,6 @@
 info:
   profile: dev123
-  from: git
+  from: git123
   aha: hello aha configclient !!!
 
 test: this is config client dev!!!
